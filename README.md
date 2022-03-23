@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krzysztof Kałamarski</h1>
-<h3 align="center">An experienced fullstack developer based in Poland</h3>
+<h3 align="center">I'm a fullstack javascript developer based in Poland</h3>
 
 - 🌱 I’m currently learning **Functional programming in Elm**
 
