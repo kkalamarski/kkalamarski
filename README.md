@@ -7,10 +7,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t fear the monad! Maybe implementation in TypeScript](https://kkalamarski.me/dont-fear-the-monad-maybe-implementation-in-typescript)
 - [How I built my own chess AI](https://kkalamarski.me/how-i-built-my-own-chess-ai)
 - [Introduction to Typescript for React developers](https://kkalamarski.me/introduction-to-typescript-for-react-developers)
 - [Essential neovim plugins](https://kkalamarski.me/essential-neovim-plugins)
-- [Custom React Hooks: useIntersectionObserver&lpar;&rpar;](https://kkalamarski.me/custom-react-hooks-useintersectionobserver)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
