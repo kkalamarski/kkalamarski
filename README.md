@@ -7,7 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s code a Virtual DOM #2: Redux-like state management](https://kkalamarski.me/lets-code-a-virtual-dom-2-redux-like-state-management)
+- [Redux-like state management: Let&#39;s code a Virtual DOM! #2](https://kkalamarski.me/lets-code-a-virtual-dom-2-redux-like-state-management)
 - [Let&#39;s code a Virtual DOM!](https://kkalamarski.me/lets-code-a-virtual-dom)
 - [How to write a more declarative TypeScript Code? Maybe monad implementation](https://kkalamarski.me/how-to-write-a-more-declarative-typescript-code-maybe-monad-implementation)
 - [How I built my own chess AI](https://kkalamarski.me/how-i-built-my-own-chess-ai)
