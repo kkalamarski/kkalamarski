@@ -7,10 +7,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Elm programming language for React developers](https://kkalamarski.me/introduction-to-elm-programming-language-for-react-developers)
 - [Reconciliation algorithm: Let&#39;s code a virtual DOM! #3](https://kkalamarski.me/reconciliation-algorithm-lets-code-a-virtual-dom-3)
 - [Redux-like state management: Let&#39;s code a Virtual DOM! #2](https://kkalamarski.me/lets-code-a-virtual-dom-2-redux-like-state-management)
 - [Let&#39;s code a Virtual DOM!](https://kkalamarski.me/lets-code-a-virtual-dom)
-- [How to write a more declarative TypeScript Code? Maybe monad implementation](https://kkalamarski.me/how-to-write-a-more-declarative-typescript-code-maybe-monad-implementation)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
