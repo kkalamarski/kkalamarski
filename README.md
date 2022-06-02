@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://kkalamarski.me](https://kkalamarski.me)
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Introduction to Elm programming language for React developers](https://kkalamarski.me/introduction-to-elm-programming-language-for-react-developers)
 - [Reconciliation algorithm: Let&#39;s code a virtual DOM! #3](https://kkalamarski.me/reconciliation-algorithm-lets-code-a-virtual-dom-3)
