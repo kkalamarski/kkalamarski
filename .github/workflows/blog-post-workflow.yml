@@ -1,9 +1,11 @@
 name: Latest blog post workflow
 on: 
+    push:
+        branches:
+            - main
     schedule:
         - cron: '0 * * * *'
-    push:
-        - main
+
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
@@ -19,6 +21,6 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v3
-            - uses: Balastrong/chess-stats-action@master
+            - uses: Balastrong/chess-stats-action@main
               with:
                 CHESS_USERNAME: kkalamarski
