@@ -12,3 +12,11 @@ jobs:
               with: 
                 max_post_count: "4"
                 feed_list: "https://kkalamarski.me/rss.xml"
+    update-readme:
+        name: Update readme with your chess stats and games
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+            - uses: Balastrong/chess-stats-action@master
+              with:
+                CHESS_USERNAME: kkalamarski

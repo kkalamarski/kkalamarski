@@ -13,6 +13,10 @@
 - [Redux-like state management: Let&#39;s code a Virtual DOM! #2](https://kkalamarski.me/lets-code-a-virtual-dom-2-redux-like-state-management)
 <!-- BLOG-POST-LIST:END -->
 
+<!--START_SECTION:chessStats-->
+
+<!--END_SECTION:chessStats-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kkalamarski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kkalamarski" height="30" width="40" /></a>
