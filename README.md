@@ -13,6 +13,7 @@
 - [Redux-like state management: Let&#39;s code a Virtual DOM! #2](https://kkalamarski.me/lets-code-a-virtual-dom-2-redux-like-state-management)
 <!-- BLOG-POST-LIST:END -->
 
+### Recent chess games on chess.com
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
 
