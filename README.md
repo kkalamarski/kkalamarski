@@ -19,6 +19,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆  | Date 📅  |
 |:---:|:---:|:---:|:---:|
+| **kkalamarski** | perlundman | <span style="color: green">win</span> | 28/7/2022 |
+| **kkalamarski** | hungnguyenbcs | <span style="color: green">win</span> | 28/7/2022 |
 | theladchad | **kkalamarski** | <span style="color: gray">stalemate</span> | 27/7/2022 |
 | wildrice7 | **kkalamarski** | <span style="color: green">win</span> | 26/7/2022 |
 | **kkalamarski** | tomasviolin | <span style="color: green">win</span> | 26/7/2022 |
@@ -27,8 +29,6 @@
 | RomanoRoy | **kkalamarski** | <span style="color: green">win</span> | 24/7/2022 |
 | **kkalamarski** | bwelch32747 | <span style="color: red">checkmated</span> | 24/7/2022 |
 | grifaldyhogantara | **kkalamarski** | <span style="color: green">win</span> | 24/7/2022 |
-| **kkalamarski** | Itsollieyall | <span style="color: red">checkmated</span> | 23/7/2022 |
-| **kkalamarski** | KevinBombadil | <span style="color: green">win</span> | 23/7/2022 |
 
 <!--END_SECTION:chessStats-->
 
