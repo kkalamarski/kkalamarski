@@ -19,6 +19,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
+| aharmand75 | **kkalamarski** | checkmated ❌ | 29/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q1k/3R3p/6p1/2p5/2B5/5P2/P1P3PP/7K b - -">Link</a> |
 | Garrettcake12 | **kkalamarski** | checkmated ❌ | 29/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4R3/8/3Q4/1P6/1P3PPP/1N2k1K1 b - -">Link</a> |
 | **kkalamarski** | wwiseman19 | win 🥇 | 29/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/1pp2ppp/p1n1p3/8/2NPN3/4P2P/PP2QPP1/R4RK1 b - -">Link</a> |
 | AssassinsCreedPro | **kkalamarski** | checkmated ❌ | 29/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/5K2/7R/8/P1P2N1p/7P/P7/8 b - -">Link</a> |
@@ -28,7 +29,6 @@
 | **kkalamarski** | ntubaro | win 🥇 | 28/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q2k1/1pp2ppp/8/4P3/r7/p1P3P1/1q5P/6K1 b - -">Link</a> |
 | **kkalamarski** | rbl85 | win 🥇 | 28/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=b2q1rk1/2R3p1/p3p1Qp/1p1pB3/1P1P1P2/P3P3/6PP/6K1 b - -">Link</a> |
 | **kkalamarski** | perlundman | win 🥇 | 28/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/2p2Bpp/pp6/2np4/b2q4/R7/2P3P1/1K1Q1R2 b - -">Link</a> |
-| **kkalamarski** | hungnguyenbcs | win 🥇 | 28/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/1pq3pp/1b2Q1k1/pP1N1p2/P4P2/8/2p2PPP/2R1R1K1 b - -">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
