@@ -19,6 +19,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
+| davide_casoni | **kkalamarski** | win 🥇 | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5K2/8/5k2/7p/6r1/8/8 w - -">Link</a> |
 | **kkalamarski** | HZTN | resigned ❌ | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/pp3ppp/4p3/3pn3/4P3/qP4PP/P3Q1PK/8 w - -">Link</a> |
 | **kkalamarski** | nibeats | timeout ❌ | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k3/4p1pp/4P1r1/5K2/8/8/8 w - -">Link</a> |
 | **kkalamarski** | dinua | win 🥇 | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/2p2ppQ/p3p3/1p1pP3/6n1/P1N1P1P1/1PP2PP1/2KR3R b - -">Link</a> |
@@ -28,7 +29,6 @@
 | aharmand75 | **kkalamarski** | checkmated ❌ | 29/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q1k/3R3p/6p1/2p5/2B5/5P2/P1P3PP/7K b - -">Link</a> |
 | Garrettcake12 | **kkalamarski** | checkmated ❌ | 29/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4R3/8/3Q4/1P6/1P3PPP/1N2k1K1 b - -">Link</a> |
 | **kkalamarski** | wwiseman19 | win 🥇 | 29/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/1pp2ppp/p1n1p3/8/2NPN3/4P2P/PP2QPP1/R4RK1 b - -">Link</a> |
-| AssassinsCreedPro | **kkalamarski** | checkmated ❌ | 29/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/5K2/7R/8/P1P2N1p/7P/P7/8 b - -">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
