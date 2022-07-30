@@ -19,6 +19,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
+| Jojo0779 | **kkalamarski** | checkmated ❌ | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/1K6/8/1k1R4 b - -">Link</a> |
 | **kkalamarski** | Jojo0779 | win 🥇 | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/Q4Pp1/7p/7P/8/P5PK/8 w - -">Link</a> |
 | Jojo0779 | **kkalamarski** | win 🥇 | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/ppp1npBp/8/8/8/1P2qN2/P3P1PP/RN3BKR w kq -">Link</a> |
 | aharmand75 | **kkalamarski** | checkmated ❌ | 29/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q1k/3R3p/6p1/2p5/2B5/5P2/P1P3PP/7K b - -">Link</a> |
@@ -28,7 +29,6 @@
 | zlysanta | **kkalamarski** | win 🥇 | 29/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6k1/6p1/6P1/6r1/5R2/6K1 w - -">Link</a> |
 | swimehdi | **kkalamarski** | resigned ❌ | 28/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1rk1/p1pnb1pp/1p1p4/8/4P3/3P1PPN/PPP2Q1P/RNB1K2R b KQ -">Link</a> |
 | **kkalamarski** | VctorMacas | checkmated ❌ | 28/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/pp1Q1pp1/7p/3p4/2P2P2/5bPP/P5q1/R4RK1 w - -">Link</a> |
-| **kkalamarski** | ntubaro | win 🥇 | 28/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q2k1/1pp2ppp/8/4P3/r7/p1P3P1/1q5P/6K1 b - -">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
