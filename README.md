@@ -19,16 +19,16 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
+| ashish1729 | **kkalamarski** | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/ppp2ppp/2p5/4P3/8/4bP2/PPPP2PP/RNBK1B1R w kq -">Link</a> |
+| Renogu | **kkalamarski** | checkmated ❌ | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq3r/pppk1Bpp/2np1P2/6B1/1b1P2Q1/2N5/PPP3PP/R4RK1 b - -">Link</a> |
+| **kkalamarski** | THCJCB | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2r1k1/ppp2p2/5b1p/4qp2/8/1N2PN2/PPP1QPPP/1K1R3R w - -">Link</a> |
+| RobertUwl | **kkalamarski** | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5ppk/1p5p/p7/P7/5q2/1K5P/8 w - -">Link</a> |
 | eganogan | **kkalamarski** | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1r1k/p1p5/1p2Q2p/6p1/1P6/4P3/P1q1KPPP/3R1R2 w - -">Link</a> |
 | **kkalamarski** | Vagnercm | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/p1R4p/6p1/5qk1/4p3/5p2/PP3P1P/7K b - -">Link</a> |
 | davide_casoni | **kkalamarski** | win 🥇 | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5K2/8/5k2/7p/6r1/8/8 w - -">Link</a> |
 | **kkalamarski** | HZTN | resigned ❌ | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/pp3ppp/4p3/3pn3/4P3/qP4PP/P3Q1PK/8 w - -">Link</a> |
 | **kkalamarski** | nibeats | timeout ❌ | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k3/4p1pp/4P1r1/5K2/8/8/8 w - -">Link</a> |
 | **kkalamarski** | dinua | win 🥇 | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/2p2ppQ/p3p3/1p1pP3/6n1/P1N1P1P1/1PP2PP1/2KR3R b - -">Link</a> |
-| Jojo0779 | **kkalamarski** | checkmated ❌ | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/1K6/8/1k1R4 b - -">Link</a> |
-| **kkalamarski** | Jojo0779 | win 🥇 | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/Q4Pp1/7p/7P/8/P5PK/8 w - -">Link</a> |
-| Jojo0779 | **kkalamarski** | win 🥇 | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/ppp1npBp/8/8/8/1P2qN2/P3P1PP/RN3BKR w kq -">Link</a> |
-| aharmand75 | **kkalamarski** | checkmated ❌ | 29/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q1k/3R3p/6p1/2p5/2B5/5P2/P1P3PP/7K b - -">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
