@@ -30,6 +30,10 @@
 | **kkalamarski** | nibeats | timeout ❌ | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k3/4p1pp/4P1r1/5K2/8/8/8 w - -">Link</a> |
 | **kkalamarski** | dinua | win 🥇 | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/2p2ppQ/p3p3/1p1pP3/6n1/P1N1P1P1/1PP2PP1/2KR3R b - -">Link</a> |
 
+| Type | Rapid 🐢 | Blitz 🐇 | Bullet ⚡ |
+|:---:|:---:|:---:|:---:|
+| Current | 1044 | 900 | 996 |
+| Best | 1340 | 1005 | 1312 |
 <!--END_SECTION:chessStats-->
 
 <h3 align="left">Connect with me:</h3>
