@@ -19,6 +19,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
+| Alexthunder91 | **kkalamarski** | timeout ❌ | 1/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1N3p/2p2k2/3p1r2/5P2/3B3P/PP6/4K3 b - -">Link</a> |
+| **kkalamarski** | Alexthunder91 | win 🥇 | 1/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/Bkpq1ppp/Qpnb4/1B6/6P1/5N1P/PPP2P2/2KR3R b - -">Link</a> |
 | **kkalamarski** | Davi_mmelo | checkmated ❌ | 1/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3rk1/pp2ppbp/2pp2p1/5b2/1n1P1B1P/1P2PQ1N/q1PN1PP1/1KR2B1R w - -">Link</a> |
 | **kkalamarski** | dashmore3030 | stalemate ⏸️ | 1/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/5pk1/6p1/6K1 w - -">Link</a> |
 | ashish1729 | **kkalamarski** | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/ppp2ppp/2p5/4P3/8/4bP2/PPPP2PP/RNBK1B1R w kq -">Link</a> |
@@ -27,12 +29,10 @@
 | RobertUwl | **kkalamarski** | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5ppk/1p5p/p7/P7/5q2/1K5P/8 w - -">Link</a> |
 | eganogan | **kkalamarski** | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1r1k/p1p5/1p2Q2p/6p1/1P6/4P3/P1q1KPPP/3R1R2 w - -">Link</a> |
 | **kkalamarski** | Vagnercm | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/p1R4p/6p1/5qk1/4p3/5p2/PP3P1P/7K b - -">Link</a> |
-| davide_casoni | **kkalamarski** | win 🥇 | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5K2/8/5k2/7p/6r1/8/8 w - -">Link</a> |
-| **kkalamarski** | HZTN | resigned ❌ | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/pp3ppp/4p3/3pn3/4P3/qP4PP/P3Q1PK/8 w - -">Link</a> |
 
 | Type | Rapid 🐢 | Blitz 🐇 | Bullet ⚡ |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 894 | 996 |
+| Current | 1044 | 896 | 996 |
 | Best | 1340 | 1005 | 1312 |
 <!--END_SECTION:chessStats-->
 
