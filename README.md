@@ -19,6 +19,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | Davi_mmelo | checkmated ❌ | 1/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3rk1/pp2ppbp/2pp2p1/5b2/1n1P1B1P/1P2PQ1N/q1PN1PP1/1KR2B1R w - -">Link</a> |
+| **kkalamarski** | dashmore3030 | stalemate ⏸️ | 1/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/5pk1/6p1/6K1 w - -">Link</a> |
 | ashish1729 | **kkalamarski** | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/ppp2ppp/2p5/4P3/8/4bP2/PPPP2PP/RNBK1B1R w kq -">Link</a> |
 | Renogu | **kkalamarski** | checkmated ❌ | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq3r/pppk1Bpp/2np1P2/6B1/1b1P2Q1/2N5/PPP3PP/R4RK1 b - -">Link</a> |
 | **kkalamarski** | THCJCB | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2r1k1/ppp2p2/5b1p/4qp2/8/1N2PN2/PPP1QPPP/1K1R3R w - -">Link</a> |
@@ -27,12 +29,10 @@
 | **kkalamarski** | Vagnercm | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/p1R4p/6p1/5qk1/4p3/5p2/PP3P1P/7K b - -">Link</a> |
 | davide_casoni | **kkalamarski** | win 🥇 | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5K2/8/5k2/7p/6r1/8/8 w - -">Link</a> |
 | **kkalamarski** | HZTN | resigned ❌ | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/pp3ppp/4p3/3pn3/4P3/qP4PP/P3Q1PK/8 w - -">Link</a> |
-| **kkalamarski** | nibeats | timeout ❌ | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k3/4p1pp/4P1r1/5K2/8/8/8 w - -">Link</a> |
-| **kkalamarski** | dinua | win 🥇 | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/2p2ppQ/p3p3/1p1pP3/6n1/P1N1P1P1/1PP2PP1/2KR3R b - -">Link</a> |
 
 | Type | Rapid 🐢 | Blitz 🐇 | Bullet ⚡ |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 900 | 996 |
+| Current | 1044 | 894 | 996 |
 | Best | 1340 | 1005 | 1312 |
 <!--END_SECTION:chessStats-->
 
