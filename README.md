@@ -17,6 +17,11 @@
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
 
+| Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
+|:---:|:---:|:---:|:---:|
+| Current | 1044 | 896 | 996 |
+| Best | 1340 | 1005 | 1312 |
+
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
 | Alexthunder91 | **kkalamarski** | timeout ❌ | 1/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1N3p/2p2k2/3p1r2/5P2/3B3P/PP6/4K3 b - -">Link</a> |
@@ -30,10 +35,6 @@
 | eganogan | **kkalamarski** | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1r1k/p1p5/1p2Q2p/6p1/1P6/4P3/P1q1KPPP/3R1R2 w - -">Link</a> |
 | **kkalamarski** | Vagnercm | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/p1R4p/6p1/5qk1/4p3/5p2/PP3P1P/7K b - -">Link</a> |
 
-| Type | Rapid 🐢 | Blitz 🐇 | Bullet ⚡ |
-|:---:|:---:|:---:|:---:|
-| Current | 1044 | 896 | 996 |
-| Best | 1340 | 1005 | 1312 |
 <!--END_SECTION:chessStats-->
 
 <h3 align="left">Connect with me:</h3>
