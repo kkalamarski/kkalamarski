@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 888 | 996 |
+| Current | 1044 | 880 | 996 |
 | Best | 1340 | 1005 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Bmaciewicz | **kkalamarski** | checkmated ❌ | 9/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q2k/6p1/5p1p/5Q2/8/8/3p2P1/5R1K b - -">Link</a> | Blitz |
 | **kkalamarski** | albinoswordfish | checkmated ❌ | 8/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/k7/1p6/3p4/4p3/2q1P3/2K5/q7 w - -">Link</a> | Blitz |
 | raretoucan | **kkalamarski** | win 🥇 | 8/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1Bpb1pbp/p5p1/6N1/6n1/2P5/PP1N1PPq/R1BQ1RK1 w - -">Link</a> | Blitz |
 | **kkalamarski** | whitemike23 | checkmated ❌ | 8/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5q1k/p7/1p4p1/2p3Q1/8/4P3/PP2N1PP/3r2K1 w - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | **kkalamarski** | dashmore3030 | stalemate ⏸️ | 1/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/5pk1/6p1/6K1 w - -">Link</a> | Blitz |
 | ashish1729 | **kkalamarski** | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/ppp2ppp/2p5/4P3/8/4bP2/PPPP2PP/RNBK1B1R w kq -">Link</a> | Blitz |
 | Renogu | **kkalamarski** | checkmated ❌ | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq3r/pppk1Bpp/2np1P2/6B1/1b1P2Q1/2N5/PPP3PP/R4RK1 b - -">Link</a> | Blitz |
-| **kkalamarski** | THCJCB | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2r1k1/ppp2p2/5b1p/4qp2/8/1N2PN2/PPP1QPPP/1K1R3R w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
