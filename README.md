@@ -19,11 +19,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 897 | 996 |
+| Current | 1044 | 883 | 996 |
 | Best | 1340 | 1005 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Jabbe78 | **kkalamarski** | checkmated ❌ | 11/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5KQk/8/P4p1p/5P1P/P5P1/8 b - -">Link</a> | Blitz |
+| franciscotp | **kkalamarski** | checkmated ❌ | 11/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rkQ/ppp2p2/3p1Bq1/2b5/8/3P1B2/PPP2PPP/R4RK1 b - -">Link</a> | Blitz |
 | **kkalamarski** | ElWilliamHall | checkmated ❌ | 9/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/8/8/8/5k2/3b2qK/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | pichirulis | win 🥇 | 9/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pbpp1pp1/1pNb1n1p/8/8/2P1B1P1/PP1Q1PBP/R4RK1 w - -">Link</a> | Blitz |
 | **kkalamarski** | TheJulesCaesar | win 🥇 | 9/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/pp1R1Q2/2p5/4b1p1/P6q/1P2P3/2P3PP/6K1 b - -">Link</a> | Blitz |
@@ -32,8 +34,6 @@
 | harrison_helms | **kkalamarski** | win 🥇 | 9/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/1p4pp/p3p1n1/2p5/2P1P3/8/P1K2PPP/3n4 w - -">Link</a> | Blitz |
 | Bmaciewicz | **kkalamarski** | checkmated ❌ | 9/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q2k/6p1/5p1p/5Q2/8/8/3p2P1/5R1K b - -">Link</a> | Blitz |
 | **kkalamarski** | albinoswordfish | checkmated ❌ | 8/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/k7/1p6/3p4/4p3/2q1P3/2K5/q7 w - -">Link</a> | Blitz |
-| raretoucan | **kkalamarski** | win 🥇 | 8/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1Bpb1pbp/p5p1/6N1/6n1/2P5/PP1N1PPq/R1BQ1RK1 w - -">Link</a> | Blitz |
-| **kkalamarski** | whitemike23 | checkmated ❌ | 8/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5q1k/p7/1p4p1/2p3Q1/8/4P3/PP2N1PP/3r2K1 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
