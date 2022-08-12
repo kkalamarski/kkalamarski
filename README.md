@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 875 | 996 |
+| Current | 1044 | 868 | 996 |
 | Best | 1340 | 1005 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | jbaranoff | timeout ❌ | 12/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/ppp2pp1/7p/3p1P2/6q1/4n2K/PP1N4/7B w - -">Link</a> | Blitz |
 | **kkalamarski** | Sakt1Kquilla | checkmated ❌ | 12/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/pp5R/4kPp1/8/2p1pP2/P1P1P3/1PK4Q/3q4 w - -">Link</a> | Blitz |
 | Jabbe78 | **kkalamarski** | checkmated ❌ | 11/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5KQk/8/P4p1p/5P1P/P5P1/8 b - -">Link</a> | Blitz |
 | franciscotp | **kkalamarski** | checkmated ❌ | 11/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rkQ/ppp2p2/3p1Bq1/2b5/8/3P1B2/PPP2PPP/R4RK1 b - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | **kkalamarski** | rnavas1 | win 🥇 | 9/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1kr1r1/2Q2Rp1/p1p4p/3pP3/P7/2N5/1PP3PP/5R1K b - -">Link</a> | Blitz |
 | Fruellas | **kkalamarski** | checkmated ❌ | 9/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq3k/pp3pQp/2pprp1B/4p3/3bP3/P1PP3P/1P3PP1/R3KB1R b KQ -">Link</a> | Blitz |
 | harrison_helms | **kkalamarski** | win 🥇 | 9/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/1p4pp/p3p1n1/2p5/2P1P3/8/P1K2PPP/3n4 w - -">Link</a> | Blitz |
-| Bmaciewicz | **kkalamarski** | checkmated ❌ | 9/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q2k/6p1/5p1p/5Q2/8/8/3p2P1/5R1K b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
