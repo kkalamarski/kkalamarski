@@ -24,6 +24,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| ItsTylerYo | **kkalamarski** | insufficient ⏸️ | 16/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/8/6K1/8/8/8/8 w - -">Link</a> | Blitz |
 | TheIronLazar | **kkalamarski** | checkmated ❌ | 16/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/2p3Qp/7B/ppq1Pr2/3p4/Pb4P1/1PP4P/2K1R3 b - -">Link</a> | Blitz |
 | msepi | **kkalamarski** | win 🥇 | 13/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4K3/2kP3R/8/2p5/8/8/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | jbaranoff | timeout ❌ | 12/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/ppp2pp1/7p/3p1P2/6q1/4n2K/PP1N4/7B w - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | **kkalamarski** | ElWilliamHall | checkmated ❌ | 9/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/8/8/8/5k2/3b2qK/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | pichirulis | win 🥇 | 9/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pbpp1pp1/1pNb1n1p/8/8/2P1B1P1/PP1Q1PBP/R4RK1 w - -">Link</a> | Blitz |
 | **kkalamarski** | TheJulesCaesar | win 🥇 | 9/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/pp1R1Q2/2p5/4b1p1/P6q/1P2P3/2P3PP/6K1 b - -">Link</a> | Blitz |
-| **kkalamarski** | rnavas1 | win 🥇 | 9/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1kr1r1/2Q2Rp1/p1p4p/3pP3/P7/2N5/1PP3PP/5R1K b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
