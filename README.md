@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 872 | 996 |
+| Current | 1044 | 865 | 996 |
 | Best | 1340 | 1005 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | Dizzbert | checkmated ❌ | 18/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3n2k1/1p5p/1p4p1/2p5/K7/2b5/1r6/q7 w - -">Link</a> | Blitz |
 | **kkalamarski** | adalbertomania | win 🥇 | 17/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2k/5ppp/p7/1p1p4/5n2/4N3/6PP/1Q3R1K b - -">Link</a> | Blitz |
 | Airjibe | **kkalamarski** | win 🥇 | 17/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr1k1/p4ppp/1p6/2p5/6P1/qR5P/P2N1P2/3K3R b - -">Link</a> | Blitz |
 | **kkalamarski** | waiviER | stalemate ⏸️ | 17/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/k1K5/2Q5/8 b - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | TheIronLazar | **kkalamarski** | checkmated ❌ | 16/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/2p3Qp/7B/ppq1Pr2/3p4/Pb4P1/1PP4P/2K1R3 b - -">Link</a> | Blitz |
 | msepi | **kkalamarski** | win 🥇 | 13/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4K3/2kP3R/8/2p5/8/8/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | jbaranoff | timeout ❌ | 12/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/ppp2pp1/7p/3p1P2/6q1/4n2K/PP1N4/7B w - -">Link</a> | Blitz |
-| **kkalamarski** | Sakt1Kquilla | checkmated ❌ | 12/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/pp5R/4kPp1/8/2p1pP2/P1P1P3/1PK4Q/3q4 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
