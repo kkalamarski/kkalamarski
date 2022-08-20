@@ -19,11 +19,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 935 | 996 |
+| Current | 1044 | 922 | 996 |
 | Best | 1340 | 1005 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | scout859 | checkmated ❌ | 20/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/ppp3bp/6p1/8/3P2nP/P1P5/5PR1/2q3K1 w - -">Link</a> | Blitz |
+| AntelopeBrother | **kkalamarski** | checkmated ❌ | 20/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q2k2/Q7/8/8/8/2P5/2P2PP1/5RK1 b - -">Link</a> | Blitz |
 | **kkalamarski** | Kavachinksi | win 🥇 | 20/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q1k1/8/1p3KP1/p1p5/P1P1p1p1/1P2P1P1/8/7q b - -">Link</a> | Blitz |
 | AlimGhifran | **kkalamarski** | win 🥇 | 20/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/pp3ppp/5nn1/2b4b/3p4/1B1PN3/PP1N1PPP/R1B1R1K1 w - -">Link</a> | Blitz |
 | **kkalamarski** | Lolius | win 🥇 | 20/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R5k1/1Q5p/4p3/5p2/1Pp3p1/2PqP1P1/1n4BP/6K1 b - -">Link</a> | Blitz |
@@ -32,8 +34,6 @@
 | ayilim | **kkalamarski** | win 🥇 | 20/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/ppp2rpp/8/8/3Q3p/8/PPP1RPPP/2q3K1 w - -">Link</a> | Blitz |
 | **kkalamarski** | Cartagena1234 | win 🥇 | 20/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/1k4P1/p2q2P1/5P2/2R5/1P6/1K6 b - -">Link</a> | Blitz |
 | **kkalamarski** | Mahir1234566 | win 🥇 | 18/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Rk3/5p2/2p1p2r/3p1b1p/1r1P1PpB/1Pn3P1/5P1P/6K1 b - -">Link</a> | Blitz |
-| Mahir1234566 | **kkalamarski** | win 🥇 | 18/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k3/ppp2p2/2p5/2b5/4P3/2NPnP1p/PPP1Q2P/4K1q1 w q -">Link</a> | Blitz |
-| ZachOrcas212 | **kkalamarski** | checkmated ❌ | 18/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp5p/7k/6Q1/5B2/1P2P2P/P4PPK/3r4 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
