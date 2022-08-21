@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 931 | 996 |
+| Current | 1044 | 939 | 996 |
 | Best | 1340 | 1005 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | L0vechess97 | win 🥇 | 21/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rkb/ppp4Q/8/3pp3/8/3KP1q1/PPPN4/7R b - -">Link</a> | Blitz |
 | ljul | **kkalamarski** | checkmated ❌ | 21/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/6RR/p5p1/5p1p/P1P1p3/1P3P1P/6PK/1r6 b - -">Link</a> | Blitz |
 | **kkalamarski** | ljul | win 🥇 | 21/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q2k1/ppp2Q2/6p1/6Np/6bP/4P3/PPP2PP1/2K2B1R b - -">Link</a> | Blitz |
 | ljul | **kkalamarski** | win 🥇 | 21/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/1pp1q1pp/3b2p1/p7/3QnPP1/1P2Pn1P/PBP5/RN3NK1 w - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | AlimGhifran | **kkalamarski** | win 🥇 | 20/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/pp3ppp/5nn1/2b4b/3p4/1B1PN3/PP1N1PPP/R1B1R1K1 w - -">Link</a> | Blitz |
 | **kkalamarski** | Lolius | win 🥇 | 20/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R5k1/1Q5p/4p3/5p2/1Pp3p1/2PqP1P1/1n4BP/6K1 b - -">Link</a> | Blitz |
 | Voyel | **kkalamarski** | checkmated ❌ | 20/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1N6/5Q2/8/6p1/7p/4Q1kP/P1P3P1/6K1 b - -">Link</a> | Blitz |
-| **kkalamarski** | Bluesyz | repetition ⏸️ | 20/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6p1/2Q1p2p/1p1P4/pP6/P1P5/6RP/5q1K w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
