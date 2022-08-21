@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 921 | 996 |
+| Current | 1044 | 912 | 996 |
 | Best | 1340 | 1005 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | isaaczamora74 | checkmated ❌ | 21/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q2k1/4Kp2/4n3/8/8/8/8/qqq3q1 w - -">Link</a> | Blitz |
 | reneminharro | **kkalamarski** | insufficient ⏸️ | 21/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1K2k3/7b/8/8/8/8/8 b - -">Link</a> | Blitz |
 | **kkalamarski** | jlinder9867 | checkmated ❌ | 21/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2K5/5ppk/bp1q3p/p7/7P/8/8/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | Tommyh_1 | win 🥇 | 21/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q1k1/6p1/p5Pp/8/7P/8/6PK/8 b - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | ljul | **kkalamarski** | checkmated ❌ | 21/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/6RR/p5p1/5p1p/P1P1p3/1P3P1P/6PK/1r6 b - -">Link</a> | Blitz |
 | **kkalamarski** | ljul | win 🥇 | 21/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q2k1/ppp2Q2/6p1/6Np/6bP/4P3/PPP2PP1/2K2B1R b - -">Link</a> | Blitz |
 | ljul | **kkalamarski** | win 🥇 | 21/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/1pp1q1pp/3b2p1/p7/3QnPP1/1P2Pn1P/PBP5/RN3NK1 w - -">Link</a> | Blitz |
-| **kkalamarski** | scout859 | checkmated ❌ | 20/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/ppp3bp/6p1/8/3P2nP/P1P5/5PR1/2q3K1 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
