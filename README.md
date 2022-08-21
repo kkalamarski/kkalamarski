@@ -19,11 +19,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 928 | 996 |
+| Current | 1044 | 921 | 996 |
 | Best | 1340 | 1005 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| reneminharro | **kkalamarski** | insufficient ⏸️ | 21/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1K2k3/7b/8/8/8/8/8 b - -">Link</a> | Blitz |
+| **kkalamarski** | jlinder9867 | checkmated ❌ | 21/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2K5/5ppk/bp1q3p/p7/7P/8/8/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | Tommyh_1 | win 🥇 | 21/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q1k1/6p1/p5Pp/8/7P/8/6PK/8 b - -">Link</a> | Blitz |
 | squallcyo | **kkalamarski** | checkmated ❌ | 21/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1r1k/pp5Q/2p5/2b1P3/8/3BP2P/PPP3P1/R4RK1 b - -">Link</a> | Blitz |
 | IRBIS777 | **kkalamarski** | checkmated ❌ | 21/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q5k/8/1R4Q1/5p2/7p/7P/5P2/7K b - -">Link</a> | Blitz |
@@ -32,8 +34,6 @@
 | **kkalamarski** | ljul | win 🥇 | 21/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q2k1/ppp2Q2/6p1/6Np/6bP/4P3/PPP2PP1/2K2B1R b - -">Link</a> | Blitz |
 | ljul | **kkalamarski** | win 🥇 | 21/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/1pp1q1pp/3b2p1/p7/3QnPP1/1P2Pn1P/PBP5/RN3NK1 w - -">Link</a> | Blitz |
 | **kkalamarski** | scout859 | checkmated ❌ | 20/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/ppp3bp/6p1/8/3P2nP/P1P5/5PR1/2q3K1 w - -">Link</a> | Blitz |
-| AntelopeBrother | **kkalamarski** | checkmated ❌ | 20/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q2k2/Q7/8/8/8/2P5/2P2PP1/5RK1 b - -">Link</a> | Blitz |
-| **kkalamarski** | Kavachinksi | win 🥇 | 20/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q1k1/8/1p3KP1/p1p5/P1P1p1p1/1P2P1P1/8/7q b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
