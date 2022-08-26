@@ -20,10 +20,12 @@
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
 | Current | 1044 | 1015 | 996 |
-| Best | 1340 | 1016 | 1312 |
+| Best | 1340 | 1023 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Coleplay | **kkalamarski** | timeout ❌ | 26/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2K4Q/8/8/8/8/6p1/R5k1/8 b - -">Link</a> | Blitz |
+| **kkalamarski** | Falcoon84 | win 🥇 | 26/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2Q/pp3p2/3p2pp/q1pPp3/1n4N1/4P1PP/PPP2P2/1K1R1B1R b - -">Link</a> | Blitz |
 | **kkalamarski** | Schammasch | win 🥇 | 26/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/pkp5/1p6/1P2qP1p/6pP/4p3/R3Q1P1/6K1 b - -">Link</a> | Blitz |
 | totodetouslestoto | **kkalamarski** | checkmated ❌ | 25/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4R3/Q7/1Q6/8/6P1/5PKP/k7 b - -">Link</a> | Blitz |
 | Dr1zZtZorZs | **kkalamarski** | win 🥇 | 25/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1K6/4nk2/8/2q5/1q6/8/8 w - -">Link</a> | Blitz |
@@ -32,8 +34,6 @@
 | **kkalamarski** | arnaud3 | win 🥇 | 25/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/p6Q/7q/1p1pPR1k/6p1/6P1/PP5P/3R3K b - -">Link</a> | Blitz |
 | Benzodiazepina19 | **kkalamarski** | checkmated ❌ | 24/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p7/1p3Npp/6Pk/1B5P/PPP4K/8 b - -">Link</a> | Blitz |
 | **kkalamarski** | stephw2000 | checkmated ❌ | 24/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/b7/8/7K/8/7q/8/6q1 w - -">Link</a> | Blitz |
-| Sgiandubh | **kkalamarski** | win 🥇 | 24/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3k/p5b1/6Q1/1p5p/2p5/4Nr1q/P1P3K1/6R1 w - -">Link</a> | Blitz |
-| **kkalamarski** | lfelipemdo | win 🥇 | 24/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Rk1/4Q3/1p6/7p/1n1P4/q7/P5PP/7K b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
