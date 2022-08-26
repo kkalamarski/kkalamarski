@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 1008 | 996 |
+| Current | 1044 | 1015 | 996 |
 | Best | 1340 | 1016 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | Schammasch | win 🥇 | 26/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/pkp5/1p6/1P2qP1p/6pP/4p3/R3Q1P1/6K1 b - -">Link</a> | Blitz |
 | totodetouslestoto | **kkalamarski** | checkmated ❌ | 25/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4R3/Q7/1Q6/8/6P1/5PKP/k7 b - -">Link</a> | Blitz |
 | Dr1zZtZorZs | **kkalamarski** | win 🥇 | 25/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1K6/4nk2/8/2q5/1q6/8/8 w - -">Link</a> | Blitz |
 | vip155 | **kkalamarski** | win 🥇 | 25/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp2pp1/1bp2n2/7p/3PP3/2P4b/PP2BPqN/R1BQ1RK1 w kq -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | **kkalamarski** | stephw2000 | checkmated ❌ | 24/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/b7/8/7K/8/7q/8/6q1 w - -">Link</a> | Blitz |
 | Sgiandubh | **kkalamarski** | win 🥇 | 24/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3k/p5b1/6Q1/1p5p/2p5/4Nr1q/P1P3K1/6R1 w - -">Link</a> | Blitz |
 | **kkalamarski** | lfelipemdo | win 🥇 | 24/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Rk1/4Q3/1p6/7p/1n1P4/q7/P5PP/7K b - -">Link</a> | Blitz |
-| **kkalamarski** | cookiejargolf | win 🥇 | 24/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1r2/1Q1k2pp/2pp4/8/5p2/2P3P1/P1P4P/4R1K1 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
