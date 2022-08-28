@@ -7,10 +7,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Handling attributes and event listeners: Let&#39;s code a virtual DOM! #4](https://kkalamarski.me/handling-attributes-and-event-listeners-lets-code-a-virtual-dom-4)
 - [A declarative approach to error handling in Typescript](https://kkalamarski.me/a-declarative-approach-to-error-handling-in-typescript)
 - [Introduction to Elm programming language for React developers](https://kkalamarski.me/introduction-to-elm-programming-language-for-react-developers)
 - [Reconciliation algorithm: Let&#39;s code a virtual DOM! #3](https://kkalamarski.me/reconciliation-algorithm-lets-code-a-virtual-dom-3)
-- [Redux-like state management: Let&#39;s code a Virtual DOM! #2](https://kkalamarski.me/lets-code-a-virtual-dom-2-redux-like-state-management)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent chess games on chess.com
