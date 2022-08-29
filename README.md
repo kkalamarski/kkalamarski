@@ -24,6 +24,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | HarltonChesston | stalemate ⏸️ | 29/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/2p5/1p6/1K1p4/1P1P4/2r5/8/q7 w - -">Link</a> | Blitz |
 | FranoisIzern | **kkalamarski** | win 🥇 | 29/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2nk3/7p/3Q2p1/8/3Pq1P1/PPP4P/5b1K w - -">Link</a> | Blitz |
 | **kkalamarski** | Zarrk | checkmated ❌ | 28/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p7/Pp5K/8/2k3q1/7q/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | RishD1985 | resigned ❌ | 28/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/1pp2ppp/p4q2/R2P4/5P2/1N1R2P1/2b3BP/6K1 b - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | **kkalamarski** | Scharkus | win 🥇 | 27/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6QP/5p2/5p1k/5B2/3nP3/5PP1/6K1 b - -">Link</a> | Blitz |
 | albert9397 | **kkalamarski** | checkmated ❌ | 26/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7R/6p1/P1P3Pb/5KQk/8/8 b - -">Link</a> | Blitz |
 | **kkalamarski** | SirGordito | win 🥇 | 26/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rk/R1Q1R1p1/5nqp/5p2/1PB2P2/6P1/3K3P/8 w - -">Link</a> | Blitz |
-| lluque3 | **kkalamarski** | win 🥇 | 26/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/p1Q2ppp/8/7n/3P1B2/N1PK1PP1/PP2q3/R7 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
