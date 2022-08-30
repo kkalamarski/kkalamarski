@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 1019 | 996 |
+| Current | 1044 | 1011 | 996 |
 | Best | 1340 | 1044 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Renopeppe | **kkalamarski** | checkmated ❌ | 30/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q2k1/4Q3/8/2B5/5p1p/5P1P/6K1/8 b - -">Link</a> | Blitz |
 | **kkalamarski** | HarltonChesston | stalemate ⏸️ | 29/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/2p5/1p6/1K1p4/1P1P4/2r5/8/q7 w - -">Link</a> | Blitz |
 | FranoisIzern | **kkalamarski** | win 🥇 | 29/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2nk3/7p/3Q2p1/8/3Pq1P1/PPP4P/5b1K w - -">Link</a> | Blitz |
 | **kkalamarski** | Zarrk | checkmated ❌ | 28/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p7/Pp5K/8/2k3q1/7q/8 w - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | **kkalamarski** | johhhklunder | win 🥇 | 27/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/pp1P1p2/7p/8/2p5/2P5/PP5r/1K1R4 b - -">Link</a> | Blitz |
 | **kkalamarski** | Scharkus | win 🥇 | 27/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6QP/5p2/5p1k/5B2/3nP3/5PP1/6K1 b - -">Link</a> | Blitz |
 | albert9397 | **kkalamarski** | checkmated ❌ | 26/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7R/6p1/P1P3Pb/5KQk/8/8 b - -">Link</a> | Blitz |
-| **kkalamarski** | SirGordito | win 🥇 | 26/8/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rk/R1Q1R1p1/5nqp/5p2/1PB2P2/6P1/3K3P/8 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
