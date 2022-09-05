@@ -19,11 +19,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 1001 | 996 |
+| Current | 1044 | 985 | 996 |
 | Best | 1340 | 1044 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| guillermomorrison | **kkalamarski** | checkmated ❌ | 5/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/8/5Npp/4Qp1k/P1rP4/4PN1P/3K1PP1/8 b - -">Link</a> | Blitz |
+| **kkalamarski** | TalesAlbuquerque | timeout ❌ | 5/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/p1B1p1p1/8/2PPKp2/7r/4r2P/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | Berimbolo20 | win 🥇 | 5/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/2r1nrp1/p2q1p1p/1p1p4/1P1P2Q1/P1P5/2B1R1PP/5RK1 b - -">Link</a> | Blitz |
 | **kkalamarski** | Azzab1ff | win 🥇 | 5/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k2R3/2b2p1p/1pB3p1/2p5/5P2/2P3P1/5P1P/3R2K1 b - -">Link</a> | Blitz |
 | juan-rocha | **kkalamarski** | checkmated ❌ | 5/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/8/8/R7/Q7/Q3k3/1K5Q/8 b - -">Link</a> | Blitz |
@@ -32,8 +34,6 @@
 | **kkalamarski** | thiagoarantes81 | win 🥇 | 5/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/5K2/8/5p2/4pP2/4P1P1/1R6/8 b - -">Link</a> | Blitz |
 | ccrum292 | **kkalamarski** | checkmated ❌ | 4/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1R4/rpr5/pN6/P3Q2p/2p5/8/5PPP/6K1 b - -">Link</a> | Blitz |
 | NadBenTo | **kkalamarski** | win 🥇 | 4/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p4p1p/1p4p1/1q6/5Q1P/5PP1/PK1P4/8 w - -">Link</a> | Blitz |
-| **kkalamarski** | popejrh8 | checkmated ❌ | 3/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K7/1q6/2k5/p7/P1b5/8/8/8 w - -">Link</a> | Blitz |
-| 2ztep | **kkalamarski** | checkmated ❌ | 2/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R4k2/7Q/8/8/1P2P1P1/2K1N3/P4P2/8 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
