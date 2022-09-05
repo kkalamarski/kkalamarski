@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 986 | 996 |
+| Current | 1044 | 993 | 996 |
 | Best | 1340 | 1044 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| IrritatedArch | **kkalamarski** | win 🥇 | 5/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pk6/8/2Q5/1p6/8/PPP2PKP/8 w - -">Link</a> | Blitz |
 | m_illusion | **kkalamarski** | win 🥇 | 5/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp2ppp/2p5/6q1/4P1b1/2NPb1P1/PPP1Q2P/3RKB1R w Kkq -">Link</a> | Blitz |
 | **kkalamarski** | thiagoarantes81 | win 🥇 | 5/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/5K2/8/5p2/4pP2/4P1P1/1R6/8 b - -">Link</a> | Blitz |
 | ccrum292 | **kkalamarski** | checkmated ❌ | 4/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1R4/rpr5/pN6/P3Q2p/2p5/8/5PPP/6K1 b - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | **kkalamarski** | erikedmund | checkmated ❌ | 2/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/b5pP/3p4/6r1/6qK/8/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | jobdena | checkmated ❌ | 2/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p3p1b1/5pp1/1p1Pp3/4P2P/2P3pR/PP3q2/2RQ1KN1 w - -">Link</a> | Blitz |
 | monitor67 | **kkalamarski** | win 🥇 | 2/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R3/5ppk/1pb4p/2pN4/7B/2P4P/P4PP1/5QK1 w - -">Link</a> | Blitz |
-| **kkalamarski** | Will3838 | checkmated ❌ | 1/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/2pkn3/p3p3/1p1bQp2/3P3R/P2BP1P1/1PP2PP1/1K1q4 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
