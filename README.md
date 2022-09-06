@@ -24,6 +24,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | rstrobl89 | timevsinsufficient ⏸️ | 6/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/5pp1/6k1/7p/7K b - -">Link</a> | Blitz |
 | **kkalamarski** | kingblingz | checkmated ❌ | 6/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3p4/5P1K/8/8/7q/3k4/6q1 w - -">Link</a> | Blitz |
 | **kkalamarski** | Markojaager | timeout ❌ | 6/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1Qp1kp2/4p3/3p2p1/2q5/2P5/1PK5/8 w - -">Link</a> | Blitz |
 | Edizzie | **kkalamarski** | win 🥇 | 6/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/p5p1/1P1P4/2K1P3/4bP2/1Pq3PP/1R6 w - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | **kkalamarski** | Azzab1ff | win 🥇 | 5/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k2R3/2b2p1p/1pB3p1/2p5/5P2/2P3P1/5P1P/3R2K1 b - -">Link</a> | Blitz |
 | juan-rocha | **kkalamarski** | checkmated ❌ | 5/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/8/8/R7/Q7/Q3k3/1K5Q/8 b - -">Link</a> | Blitz |
 | IrritatedArch | **kkalamarski** | win 🥇 | 5/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pk6/8/2Q5/1p6/8/PPP2PKP/8 w - -">Link</a> | Blitz |
-| m_illusion | **kkalamarski** | win 🥇 | 5/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp2ppp/2p5/6q1/4P1b1/2NPb1P1/PPP1Q2P/3RKB1R w Kkq -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
