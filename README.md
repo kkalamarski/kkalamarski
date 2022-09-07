@@ -19,11 +19,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 986 | 996 |
+| Current | 1044 | 980 | 996 |
 | Best | 1340 | 1044 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | a19andchess | checkmated ❌ | 7/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/1p5k/6r1/2n5/7K/8/7r w - -">Link</a> | Blitz |
+| **kkalamarski** | ladesch24 | repetition ⏸️ | 7/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp3ppp/8/8/2p2P2/2P1P3/PP3RPP/3r2K1 w - -">Link</a> | Blitz |
 | ArmadeusThunderstorm | **kkalamarski** | win 🥇 | 7/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2q2K2/8/R7/P2k4/8/8/8 w - -">Link</a> | Blitz |
 | DanielIC1 | **kkalamarski** | stalemate ⏸️ | 7/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/5Q2/6R1/2P5/3P4/6PK/8 b - -">Link</a> | Blitz |
 | RubenJeronimo94 | **kkalamarski** | checkmated ❌ | 6/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/6p1/3KP2k/8/R7/6RQ b - -">Link</a> | Blitz |
@@ -32,8 +34,6 @@
 | WhizZz_aRt | **kkalamarski** | checkmated ❌ | 6/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/6QR/5p2/p6p/8/2P4P/P1P2PP1/6K1 b - -">Link</a> | Blitz |
 | Brenbuggy | **kkalamarski** | win 🥇 | 6/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/8/6KP/2b3P1/8/p7/1k6 w - -">Link</a> | Blitz |
 | **kkalamarski** | leonardoalmeida201 | win 🥇 | 6/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1pp2r2/p6Q/3p4/3P4/P6N/1PP5/1K1R4 b - -">Link</a> | Blitz |
-| **kkalamarski** | rstrobl89 | timevsinsufficient ⏸️ | 6/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/5pp1/6k1/7p/7K b - -">Link</a> | Blitz |
-| **kkalamarski** | kingblingz | checkmated ❌ | 6/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3p4/5P1K/8/8/7q/3k4/6q1 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
