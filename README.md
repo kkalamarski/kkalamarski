@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 985 | 996 |
+| Current | 1044 | 978 | 996 |
 | Best | 1340 | 1044 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | assitiger | checkmated ❌ | 8/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1K2r1k1/p4qpp/1p6/3p4/8/1P1b4/P7/8 w - -">Link</a> | Blitz |
 | ImNotSpiderman | **kkalamarski** | win 🥇 | 8/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k7/1p6/p7/8/4PRP1/1P1PKP2/2Pq3r/2R5 w - -">Link</a> | Blitz |
 | **kkalamarski** | 7bmax | resigned ❌ | 8/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2ppp/3b4/3p1B1n/3P4/4nN2/PPP3PP/3R1RK1 w - -">Link</a> | Blitz |
 | Mephisto51 | **kkalamarski** | timeout ❌ | 8/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b2/7R/p1kP2P1/2P5/1P1K4/8/P7/8 b - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | **kkalamarski** | ladesch24 | repetition ⏸️ | 7/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp3ppp/8/8/2p2P2/2P1P3/PP3RPP/3r2K1 w - -">Link</a> | Blitz |
 | ArmadeusThunderstorm | **kkalamarski** | win 🥇 | 7/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2q2K2/8/R7/P2k4/8/8/8 w - -">Link</a> | Blitz |
 | DanielIC1 | **kkalamarski** | stalemate ⏸️ | 7/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/5Q2/6R1/2P5/3P4/6PK/8 b - -">Link</a> | Blitz |
-| RubenJeronimo94 | **kkalamarski** | checkmated ❌ | 6/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/6p1/3KP2k/8/R7/6RQ b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
