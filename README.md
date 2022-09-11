@@ -19,11 +19,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 1019 | 996 |
+| Current | 1044 | 1036 | 996 |
 | Best | 1340 | 1044 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| alavifar | **kkalamarski** | win 🥇 | 11/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p2N1ppp/bp6/8/3qPP2/3p4/PPP2KPP/R1BQ4 w - -">Link</a> | Blitz |
+| **kkalamarski** | srv1024 | win 🥇 | 11/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2P2p1p/pR6/4r3/4p3/PP3k2/3KR1N1 b - -">Link</a> | Blitz |
 | **kkalamarski** | zetreticul | win 🥇 | 11/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1b1r/p2pk3/1pp1pPB1/4B1pp/3P4/4n3/PPP3PP/RN3RK1 b - -">Link</a> | Blitz |
 | Jawad3361 | **kkalamarski** | win 🥇 | 11/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rk/p6p/1p1PR3/2p2p2/2P2p2/7P/P5qK/8 w - -">Link</a> | Blitz |
 | nickoorburg | **kkalamarski** | win 🥇 | 11/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/3n3p/6p1/pPpP3r/2P1pPRP/1P2P3/4KP2/7q w - -">Link</a> | Blitz |
@@ -32,8 +34,6 @@
 | **kkalamarski** | riband | checkmated ❌ | 11/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/2p5/P3kp2/K1P4p/1q6/8/8/8 w - -">Link</a> | Blitz |
 | Danimalien19 | **kkalamarski** | timeout ❌ | 10/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3bQ3/2kP3p/p5p1/1P5P/P5P1/8/6K1/3B4 b - -">Link</a> | Blitz |
 | uampy | **kkalamarski** | checkmated ❌ | 10/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbk4/pppp2p1/6Q1/4P1B1/2q5/8/PPP3PP/RN3R1K b - -">Link</a> | Blitz |
-| **kkalamarski** | sasqu4tch | checkmated ❌ | 9/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pR6/8/4k3/Bpp1P3/4K1r1/PP4r1/4R3 w - -">Link</a> | Blitz |
-| KeneticGG | **kkalamarski** | win 🥇 | 9/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1p2pk1/5r2/8/1KP5/8/P5p1/8 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
