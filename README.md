@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 1036 | 996 |
+| Current | 1044 | 1028 | 996 |
 | Best | 1340 | 1044 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | ClumsyApe | timeout ❌ | 11/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5K2/8/p7/2p5/2k5/P4Q2/1q6 w - -">Link</a> | Blitz |
 | alavifar | **kkalamarski** | win 🥇 | 11/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p2N1ppp/bp6/8/3qPP2/3p4/PPP2KPP/R1BQ4 w - -">Link</a> | Blitz |
 | **kkalamarski** | srv1024 | win 🥇 | 11/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2P2p1p/pR6/4r3/4p3/PP3k2/3KR1N1 b - -">Link</a> | Blitz |
 | **kkalamarski** | zetreticul | win 🥇 | 11/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1b1r/p2pk3/1pp1pPB1/4B1pp/3P4/4n3/PPP3PP/RN3RK1 b - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | **kkalamarski** | antisthenes | win 🥇 | 11/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1r2/pp2n1kR/2p2Np1/4p3/3n4/8/PPPK4/5R2 b - -">Link</a> | Blitz |
 | **kkalamarski** | riband | checkmated ❌ | 11/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/2p5/P3kp2/K1P4p/1q6/8/8/8 w - -">Link</a> | Blitz |
 | Danimalien19 | **kkalamarski** | timeout ❌ | 10/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3bQ3/2kP3p/p5p1/1P5P/P5P1/8/6K1/3B4 b - -">Link</a> | Blitz |
-| uampy | **kkalamarski** | checkmated ❌ | 10/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbk4/pppp2p1/6Q1/4P1B1/2q5/8/PPP3PP/RN3R1K b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
