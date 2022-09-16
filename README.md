@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 1069 | 996 |
+| Current | 1044 | 1061 | 996 |
 | Best | 1340 | 1069 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | DrLocke305 | checkmated ❌ | 16/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp3knQ/6p1/2p2b2/1q4P1/K4R2/PP3PP1/2r5 w - -">Link</a> | Blitz |
 | **kkalamarski** | sakrud | win 🥇 | 14/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/8/6Q1/pkpp3B/8/1P2p3/P1P3PP/6K1 b - -">Link</a> | Blitz |
 | Frockme | **kkalamarski** | win 🥇 | 14/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/2n1Rpp1/7p/1r6/8/6P1/5P1P/5K2 w - -">Link</a> | Blitz |
 | **kkalamarski** | Magz777 | timeout ❌ | 13/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/8/r1p5/pp1q4/PPP2b2/8/2K1r3/8 w - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | **kkalamarski** | NobeliusTheGM | win 🥇 | 13/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/K7/8/2k5/8/P7/6Q1 b - -">Link</a> | Blitz |
 | luigi_du-64 | **kkalamarski** | win 🥇 | 13/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1p5/1pP5/1P4k1/7p/1r3p2/5P1K/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | Ragnar799 | win 🥇 | 13/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/b1p1k3/p7/P2p4/1P5P/8/8/2Q2K2 b - -">Link</a> | Blitz |
-| dewa_sabun32 | **kkalamarski** | resigned ❌ | 13/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/ppp3pp/2n2pn1/3pp3/2PP4/2N1PN2/PP2BPPP/R1BQ1RK1 b kq -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
