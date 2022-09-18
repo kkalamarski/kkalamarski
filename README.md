@@ -19,11 +19,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 1036 | 996 |
+| Current | 1044 | 1044 | 996 |
 | Best | 1340 | 1069 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| gilad234 | **kkalamarski** | win 🥇 | 18/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/6p1/8/1r1PnQ2/5b1P/2P5/1RK2q2 w - -">Link</a> | Blitz |
+| **kkalamarski** | gilad234 | agreed ⏸️ | 18/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/p6p/8/2p1R1p1/2P5/7P/PP3QP1/7K b - -">Link</a> | Blitz |
 | TBEteam | **kkalamarski** | checkmated ❌ | 17/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R4k2/3R4/8/3PN3/B6p/7P/6P1/7K b - -">Link</a> | Blitz |
 | **kkalamarski** | VanlierdeNick | win 🥇 | 17/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p2p1ppQ/b1p1p3/3nB3/3P4/3BP3/q4PPP/2R2RK1 b - -">Link</a> | Blitz |
 | MasterFoxi | **kkalamarski** | timeout ❌ | 17/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3K4/2Q5/k4P2/2N5/8/7P/8 b - -">Link</a> | Blitz |
@@ -32,8 +34,6 @@
 | **kkalamarski** | Deadprez1999 | checkmated ❌ | 17/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k5r/p1p5/Pp6/8/1Pp5/4R1P1/5K2/3r1q2 w - -">Link</a> | Blitz |
 | WaYzYh | **kkalamarski** | win 🥇 | 17/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppp2k2/8/3N1K2/4PP1P/8/Prp3P1/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | DrLocke305 | checkmated ❌ | 16/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp3knQ/6p1/2p2b2/1q4P1/K4R2/PP3PP1/2r5 w - -">Link</a> | Blitz |
-| **kkalamarski** | sakrud | win 🥇 | 14/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/8/6Q1/pkpp3B/8/1P2p3/P1P3PP/6K1 b - -">Link</a> | Blitz |
-| Frockme | **kkalamarski** | win 🥇 | 14/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/2n1Rpp1/7p/1r6/8/6P1/5P1P/5K2 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
