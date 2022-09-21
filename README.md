@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 1047 | 996 |
+| Current | 1044 | 1046 | 996 |
 | Best | 1340 | 1069 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | Sesarsan | repetition ⏸️ | 21/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pppQ3p/8/3P1p2/6q1/4P3/PP3P2/5K2 b - -">Link</a> | Blitz |
 | McPotten | **kkalamarski** | checkmated ❌ | 20/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5Q2/6Qk/8/p6p/1P5P/1PP3K1/8 b - -">Link</a> | Blitz |
 | giba_um | **kkalamarski** | checkmated ❌ | 20/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r4k/3R3Q/4N1p1/8/2r1P3/8/PPP2PPP/2K4R b - -">Link</a> | Blitz |
 | Reklian | **kkalamarski** | win 🥇 | 19/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p2q3p/1p3p2/6p1/1B6/P1P3PP/1P2P1K1/8 w - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | **kkalamarski** | prostak007 | checkmated ❌ | 18/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/pp3ppk/7p/3q1P2/3b2R1/1P5P/r6r/7K w - -">Link</a> | Blitz |
 | **kkalamarski** | RubenJeronimo94 | win 🥇 | 18/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3NR3/2K5/kQ6/p7/8/P7/8 b - -">Link</a> | Blitz |
 | gilad234 | **kkalamarski** | win 🥇 | 18/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/6p1/8/1r1PnQ2/5b1P/2P5/1RK2q2 w - -">Link</a> | Blitz |
-| **kkalamarski** | gilad234 | agreed ⏸️ | 18/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/p6p/8/2p1R1p1/2P5/7P/PP3QP1/7K b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
