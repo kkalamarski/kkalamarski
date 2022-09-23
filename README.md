@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 1058 | 996 |
+| Current | 1044 | 1051 | 996 |
 | Best | 1340 | 1069 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| trapu201 | **kkalamarski** | checkmated ❌ | 23/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/4Q3/P4Rk1/NP6/6K1 b - -">Link</a> | Blitz |
 | egibber | **kkalamarski** | stalemate ⏸️ | 22/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/8/8/8/2NR4/7k/8/6K1 b - -">Link</a> | Blitz |
 | chrichri0 | **kkalamarski** | win 🥇 | 22/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/R2Br3/6k1/6p1/6P1/PPP3PK/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | TronJunior1 | win 🥇 | 21/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p3pkp/8/4r3/P3r3/1KP5/8/7R b - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | Reklian | **kkalamarski** | win 🥇 | 19/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p2q3p/1p3p2/6p1/1B6/P1P3PP/1P2P1K1/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | chubbyflea | repetition ⏸️ | 19/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5K1k/4r2r/p7/8/3Q4/8/8/8 b - -">Link</a> | Blitz |
 | seb_colley | **kkalamarski** | win 🥇 | 19/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5ppk/3R3p/p5rr/2PQP3/3P1P1P/6q1/6K1 w - -">Link</a> | Blitz |
-| **kkalamarski** | ThereCanOnlyBeJuan | win 🥇 | 19/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2R/8/4K3/3p4/p2P1P2/r7/8/8 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
