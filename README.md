@@ -19,11 +19,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 1093 | 996 |
-| Best | 1340 | 1093 | 1312 |
+| Current | 1044 | 1102 | 996 |
+| Best | 1340 | 1102 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| lcampos9185 | **kkalamarski** | win 🥇 | 26/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/4q3/6p1/5K1Q/1P6/1P4r1/8 w - g6">Link</a> | Blitz |
+| **kkalamarski** | mldh | win 🥇 | 26/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1rk1/pp3ppQ/2n5/3p2N1/3P1p2/P3P3/1P3PPP/R4RK1 b - -">Link</a> | Blitz |
+| **kkalamarski** | GM_FORD_VN | resigned ❌ | 26/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k1r1r/pppbn3/3p4/3NpP2/6P1/8/PP2n1PP/2R2RK1 w - -">Link</a> | Blitz |
 | borisvictor69 | **kkalamarski** | win 🥇 | 26/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/p5pp/8/8/6q1/4P3/P4P1P/KR6 b - -">Link</a> | Blitz |
 | J_Smith_Chess | **kkalamarski** | win 🥇 | 25/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7q/pp6/8/3K4/1P4k1/8/P7/8 w - -">Link</a> | Blitz |
 | Toddy100 | **kkalamarski** | win 🥇 | 25/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk2r/ppp1nppp/3P4/2b5/8/5N2/PPP1PPPP/RNBQKB1R w KQkq -">Link</a> | Blitz |
@@ -31,9 +34,6 @@
 | **kkalamarski** | will2299 | win 🥇 | 23/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/6P1/7K/k6P/8/8/1q6 b - -">Link</a> | Blitz |
 | **kkalamarski** | UlrikTorp | win 🥇 | 23/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk1n1/5Q2/p2pp3/6q1/3P4/2P5/PP4P1/R4RK1 b - -">Link</a> | Blitz |
 | **kkalamarski** | magla98 | checkmated ❌ | 23/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p5p1/1p2p2p/4P3/2pPbP1B/P1P5/6qP/4RRK1 w - -">Link</a> | Blitz |
-| trapu201 | **kkalamarski** | checkmated ❌ | 23/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/4Q3/P4Rk1/NP6/6K1 b - -">Link</a> | Blitz |
-| egibber | **kkalamarski** | stalemate ⏸️ | 22/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/8/8/8/2NR4/7k/8/6K1 b - -">Link</a> | Blitz |
-| chrichri0 | **kkalamarski** | win 🥇 | 22/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/R2Br3/6k1/6p1/6P1/PPP3PK/8 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
