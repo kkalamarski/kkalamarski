@@ -19,11 +19,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 1077 | 996 |
+| Current | 1044 | 1078 | 996 |
 | Best | 1340 | 1102 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | SamSam06 | checkmated ❌ | 28/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K7/1q6/2k5/8/8/8/8/8 w - -">Link</a> | Blitz |
+| **kkalamarski** | Anand1401 | win 🥇 | 28/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/1pp5/p6p/4N1p1/3P1n2/2P5/qPRK1R2/8 b - -">Link</a> | Blitz |
 | jpeterss | **kkalamarski** | checkmated ❌ | 28/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6Qk/8/4K1R1/7P/6P1/8/8 b - -">Link</a> | Blitz |
 | deepakverma64 | **kkalamarski** | checkmated ❌ | 27/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1Qb1r/ppp2Npp/8/4p3/5B2/2N4P/P3KPP1/8 b - -">Link</a> | Blitz |
 | agzyf | **kkalamarski** | checkmated ❌ | 27/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3K2Q1/8/7Q/8/7k/8/8 b - -">Link</a> | Blitz |
@@ -32,8 +34,6 @@
 | **kkalamarski** | Eder_miranda | timeout ❌ | 27/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/8/8/8/4K3/1k6/p7/7R w - -">Link</a> | Blitz |
 | shirali_kuxenko | **kkalamarski** | checkmated ❌ | 27/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b5/ppQ3Bp/6n1/8/1k1R4/2N5/PP2PKPP/5B1R b - -">Link</a> | Blitz |
 | Damah3 | **kkalamarski** | checkmated ❌ | 27/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5Q2/6Qk/6p1/1P2P3/5P2/6K1 b - -">Link</a> | Blitz |
-| lcampos9185 | **kkalamarski** | win 🥇 | 26/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/4q3/6p1/5K1Q/1P6/1P4r1/8 w - g6">Link</a> | Blitz |
-| **kkalamarski** | mldh | win 🥇 | 26/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1rk1/pp3ppQ/2n5/3p2N1/3P1p2/P3P3/1P3PPP/R4RK1 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
