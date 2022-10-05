@@ -24,6 +24,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | reesebass | checkmated ❌ | 5/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1q5k/8/K7/8/8/q7/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | Pyynikki | win 🥇 | 4/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/6p1/2rp4/p2K4/P3P3/1P6/8 b - -">Link</a> | Blitz |
 | retatera | **kkalamarski** | win 🥇 | 3/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/R1K3q1/8/2P3p1/P7/8/8/8 w - -">Link</a> | Blitz |
 | sakaros80 | **kkalamarski** | win 🥇 | 3/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6rk/R5p1/7P/6K1/8/8/8 w - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | ChasindaNorwgn | **kkalamarski** | checkmated ❌ | 1/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/p1p5/k1p5/6P1/R7/2B4K/8/8 b - -">Link</a> | Blitz |
 | acepacoy | **kkalamarski** | checkmated ❌ | 30/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/ppp2kQp/2p1b3/4B3/n2P2P1/P6P/1PP3q1/2KR4 b - -">Link</a> | Blitz |
 | **kkalamarski** | Javilotra | timeout ❌ | 29/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6kP/p5P1/P5K1/8/8/8 w - -">Link</a> | Blitz |
-| **kkalamarski** | SamSam06 | checkmated ❌ | 28/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K7/1q6/2k5/8/8/8/8/8 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
