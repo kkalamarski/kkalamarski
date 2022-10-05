@@ -24,6 +24,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | valentinekuznetcov | checkmated ❌ | 5/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/2q2pkp/4p1p1/2Rp4/2pP4/4P2P/5PP1/3r2K1 w - -">Link</a> | Blitz |
 | D1lly | **kkalamarski** | win 🥇 | 5/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p4k1/p1p5/P6P/3R1KP1/8/1P6/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | reesebass | checkmated ❌ | 5/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1q5k/8/K7/8/8/q7/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | Pyynikki | win 🥇 | 4/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/6p1/2rp4/p2K4/P3P3/1P6/8 b - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | **kkalamarski** | sergelaviv | checkmated ❌ | 3/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/7P/2k5/7P/2q5/3qK3 w - -">Link</a> | Blitz |
 | google_vir | **kkalamarski** | win 🥇 | 2/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/ppQ2ppp/8/8/4N1Pq/8/PPP1nPB1/R4RK1 w - -">Link</a> | Blitz |
 | ChasindaNorwgn | **kkalamarski** | checkmated ❌ | 1/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/p1p5/k1p5/6P1/R7/2B4K/8/8 b - -">Link</a> | Blitz |
-| acepacoy | **kkalamarski** | checkmated ❌ | 30/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/ppp2kQp/2p1b3/4B3/n2P2P1/P6P/1PP3q1/2KR4 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
