@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 1066 | 996 |
+| Current | 1044 | 1073 | 996 |
 | Best | 1340 | 1102 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| ASTIFENE | **kkalamarski** | win 🥇 | 9/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/ppp1k2p/6b1/2P5/3rp2P/1P6/P5P1/5RK1 w - -">Link</a> | Blitz |
 | **kkalamarski** | ranskalainenkettu | checkmated ❌ | 5/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pR3ppp/4p3/4P3/2p5/7P/3r2qK/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | valentinekuznetcov | checkmated ❌ | 5/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/2q2pkp/4p1p1/2Rp4/2pP4/4P2P/5PP1/3r2K1 w - -">Link</a> | Blitz |
 | D1lly | **kkalamarski** | win 🥇 | 5/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p4k1/p1p5/P6P/3R1KP1/8/1P6/8 w - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | sakaros80 | **kkalamarski** | win 🥇 | 3/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6rk/R5p1/7P/6K1/8/8/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | Al1t | win 🥇 | 3/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1rk1/1b2n1b1/2ppp2p/5pp1/1p1P4/1P1BPNBP/1NP1QPP1/R4RK1 b - -">Link</a> | Blitz |
 | **kkalamarski** | sergelaviv | checkmated ❌ | 3/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/7P/2k5/7P/2q5/3qK3 w - -">Link</a> | Blitz |
-| google_vir | **kkalamarski** | win 🥇 | 2/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/ppQ2ppp/8/8/4N1Pq/8/PPP1nPB1/R4RK1 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
