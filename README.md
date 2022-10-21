@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 1045 | 968 |
+| Current | 1044 | 1054 | 968 |
 | Best | 1340 | 1102 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| sunreyes | **kkalamarski** | win 🥇 | 21/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/2p4p/1p1p2p1/pP2p3/P1P1P2P/4b2q/7Q/3BNr1K w - -">Link</a> | Blitz |
 | **kkalamarski** | jrthedess | timevsinsufficient ⏸️ | 20/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k4/8/8/2K1Q3/8/8/B7 w - -">Link</a> | Blitz |
 | THIAMATE | **kkalamarski** | checkmated ❌ | 20/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q5Q1/bkp5/p1p5/P7/1P6/2P5/6P1/3R3K b - -">Link</a> | Blitz |
 | **kkalamarski** | Dipsets | insufficient ⏸️ | 18/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/K2k4/8/8 b - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | Dss180 | **kkalamarski** | checkmated ❌ | 15/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N1k1Q3/pb1p3p/1p6/2p1R3/8/1P6/Pq3PPP/4R1K1 b - -">Link</a> | Blitz |
 | DoktorBier | **kkalamarski** | checkmated ❌ | 15/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k3r/p2n1Npp/1p6/8/3p2n1/1P4P1/PB1P1PKP/2R1R3 b - -">Link</a> | Blitz |
 | **kkalamarski** | eircode | win 🥇 | 15/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kb1r/pQ1p1ppp/1p2r3/8/2p2B2/6P1/PPP1PP1P/2KR3R b k -">Link</a> | Blitz |
-| **kkalamarski** | ehaible2017 | checkmated ❌ | 12/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6p1/1p2p3/5p2/1p2nP2/2n5/P5RP/3q2K1 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
