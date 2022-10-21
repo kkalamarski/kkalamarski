@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 1054 | 968 |
+| Current | 1044 | 1061 | 968 |
 | Best | 1340 | 1102 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | seaportchef | win 🥇 | 21/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b5/ppk5/5Q2/3p4/8/2P3P1/PP1N2P1/R3K3 b Q -">Link</a> | Blitz |
 | sunreyes | **kkalamarski** | win 🥇 | 21/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/2p4p/1p1p2p1/pP2p3/P1P1P2P/4b2q/7Q/3BNr1K w - -">Link</a> | Blitz |
 | **kkalamarski** | jrthedess | timevsinsufficient ⏸️ | 20/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k4/8/8/2K1Q3/8/8/B7 w - -">Link</a> | Blitz |
 | THIAMATE | **kkalamarski** | checkmated ❌ | 20/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q5Q1/bkp5/p1p5/P7/1P6/2P5/6P1/3R3K b - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | **kkalamarski** | AndererP | win 🥇 | 15/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1nr/ppB1bppp/2n1p3/8/2NP4/2P1PN2/P4PPP/R2QKB1R b KQkq -">Link</a> | Bullet |
 | Dss180 | **kkalamarski** | checkmated ❌ | 15/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N1k1Q3/pb1p3p/1p6/2p1R3/8/1P6/Pq3PPP/4R1K1 b - -">Link</a> | Blitz |
 | DoktorBier | **kkalamarski** | checkmated ❌ | 15/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k3r/p2n1Npp/1p6/8/3p2n1/1P4P1/PB1P1PKP/2R1R3 b - -">Link</a> | Blitz |
-| **kkalamarski** | eircode | win 🥇 | 15/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kb1r/pQ1p1ppp/1p2r3/8/2p2B2/6P1/PPP1PP1P/2KR3R b k -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
