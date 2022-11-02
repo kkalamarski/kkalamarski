@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 1052 | 968 |
+| Current | 1044 | 1044 | 968 |
 | Best | 1340 | 1102 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| H-E-Crunk | **kkalamarski** | checkmated ❌ | 2/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b3R1/p4p1p/1p1b4/5k1N/2BP4/3Q2Pq/PPP2P1P/R5K1 b - -">Link</a> | Blitz |
 | toforku | **kkalamarski** | win 🥇 | 2/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/R4ppp/6r1/8/2Pq4/P4PB1/1P5P/5BKR w - -">Link</a> | Blitz |
 | **kkalamarski** | CIU33 | checkmated ❌ | 1/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6pk/5p2/4p2P/8/5P1q/5q2/7K w - -">Link</a> | Blitz |
 | Goupil3 | **kkalamarski** | win 🥇 | 23/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/4P2p/4r1p1/p7/P3K3/8/8/7R w - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | sunreyes | **kkalamarski** | win 🥇 | 21/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/2p4p/1p1p2p1/pP2p3/P1P1P2P/4b2q/7Q/3BNr1K w - -">Link</a> | Blitz |
 | **kkalamarski** | jrthedess | timevsinsufficient ⏸️ | 20/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k4/8/8/2K1Q3/8/8/B7 w - -">Link</a> | Blitz |
 | THIAMATE | **kkalamarski** | checkmated ❌ | 20/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q5Q1/bkp5/p1p5/P7/1P6/2P5/6P1/3R3K b - -">Link</a> | Blitz |
-| **kkalamarski** | Dipsets | insufficient ⏸️ | 18/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/K2k4/8/8 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
