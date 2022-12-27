@@ -7,10 +7,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to start using Neovim in 2023](https://kkalamarski.me/how-to-start-using-neovim-in-2023)
 - [5 lessons I&#39;ve learned from functional programming as a TypeScript developer](https://kkalamarski.me/5-lessons-ive-learned-from-functional-programming-as-a-typescript-developer)
 - [Handling attributes and event listeners: Let&#39;s code a virtual DOM! #4](https://kkalamarski.me/handling-attributes-and-event-listeners-lets-code-a-virtual-dom-4)
 - [A declarative approach to error handling in Typescript](https://kkalamarski.me/a-declarative-approach-to-error-handling-in-typescript)
-- [Introduction to Elm programming language for React developers](https://kkalamarski.me/introduction-to-elm-programming-language-for-react-developers)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent chess games on chess.com
