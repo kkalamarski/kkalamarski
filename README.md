@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 1073 | 968 |
+| Current | 1044 | 1049 | 968 |
 | Best | 1340 | 1102 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | Erj195 | checkmated ❌ | 1/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/1p2p2p/4k3/3b1p2/4p3/4B3/1bR2P1P/3q1K2 w - -">Link</a> | Blitz |
 | **kkalamarski** | StringTied | win 🥇 | 3/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3p4/2pK4/r7/3R4/2k5 b - -">Link</a> | Blitz |
 | jjustthetip69 | **kkalamarski** | win 🥇 | 14/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r5k/p5pp/2nr4/1P1Qp3/4P3/q1P1K2P/6P1/2R5 w - -">Link</a> | Blitz |
 | **kkalamarski** | alfredjc | win 🥇 | 11/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q3k2r/p4pp1/4p2p/qb2P3/8/2r1P1P1/P3BPP1/3R1K1R b k -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | **kkalamarski** | CIU33 | checkmated ❌ | 1/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6pk/5p2/4p2P/8/5P1q/5q2/7K w - -">Link</a> | Blitz |
 | Goupil3 | **kkalamarski** | win 🥇 | 23/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/4P2p/4r1p1/p7/P3K3/8/8/7R w - -">Link</a> | Blitz |
 | OConnor9 | **kkalamarski** | resigned ❌ | 21/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rbr2k1/pp2N1pp/5n2/2b5/8/4PN2/PPP2PPP/R2QKB1R b KQ -">Link</a> | Blitz |
-| magistr02 | **kkalamarski** | checkmated ❌ | 21/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/1p4Qk/q2p3p/3P1Np1/1p2p3/6P1/P5PP/6KR b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
