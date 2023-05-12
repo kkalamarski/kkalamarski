@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 1036 | 968 |
+| Current | 1044 | 1014 | 968 |
 | Best | 1340 | 1102 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| sranly | **kkalamarski** | checkmated ❌ | 12/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k5R1/P7/1K6/8/8/8/8/8 b - -">Link</a> | Blitz |
 | **kkalamarski** | smz55555 | checkmated ❌ | 5/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/1kp2pp1/1p6/2p5/Kq6/4p3/8 w - -">Link</a> | Blitz |
 | smz55555 | **kkalamarski** | repetition ⏸️ | 5/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/ppp2ppp/2p5/8/2B1P3/2N3q1/PPPP4/R1BQ1RK1 w kq -">Link</a> | Blitz |
 | **kkalamarski** | Erj195 | checkmated ❌ | 1/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/1p2p2p/4k3/3b1p2/4p3/4B3/1bR2P1P/3q1K2 w - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | **kkalamarski** | AzharShaikh900 | repetition ⏸️ | 8/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/5P2/3NK3/8/5n2/8/8/8 w - -">Link</a> | Blitz |
 | H-E-Crunk | **kkalamarski** | checkmated ❌ | 2/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b3R1/p4p1p/1p1b4/5k1N/2BP4/3Q2Pq/PPP2P1P/R5K1 b - -">Link</a> | Blitz |
 | toforku | **kkalamarski** | win 🥇 | 2/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/R4ppp/6r1/8/2Pq4/P4PB1/1P5P/5BKR w - -">Link</a> | Blitz |
-| **kkalamarski** | CIU33 | checkmated ❌ | 1/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6pk/5p2/4p2P/8/5P1q/5q2/7K w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
