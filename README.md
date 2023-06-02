@@ -19,11 +19,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 1107 | 968 |
-| Best | 1340 | 1120 | 1312 |
+| Current | 1044 | 1125 | 968 |
+| Best | 1340 | 1125 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | Iver193 | win 🥇 | 2/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/7P/3p4/3k4/7K/2Q5 b - -">Link</a> | Blitz |
+| AnmolBhangooCanada | **kkalamarski** | checkmated ❌ | 2/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5q1k/pp5Q/4p3/3pPB2/3P4/8/PPP4P/7K b - -">Link</a> | Blitz |
+| **kkalamarski** | chrischoy12 | win 🥇 | 2/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/4k3/8/8/3p1R1P/1r3PP1/4K3 b - -">Link</a> | Blitz |
 | **kkalamarski** | Spencer2000 | timeout ❌ | 1/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4K1k1/3R4/5qpp/6p1/2n4n/7P/8/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | jokolowe | win 🥇 | 1/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1rk1/ppp2ppQ/3p4/4P3/3P4/2NB4/PPP4P/R3K1b1 b Q -">Link</a> | Blitz |
 | shubodeep21 | **kkalamarski** | win 🥇 | 1/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q1rk1/pp3ppn/7p/3p1N2/6rb/2P5/PP3PPP/1K1R3R w - -">Link</a> | Blitz |
@@ -31,9 +34,6 @@
 | **kkalamarski** | Tyson_baike | win 🥇 | 1/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q1k1/p6p/2p3pB/1p3p1q/8/6KP/8/8 b - -">Link</a> | Blitz |
 | **kkalamarski** | AgentZero_o | win 🥇 | 1/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1K4k1/1P2p3/3pPp2/2r2n2/8/2P5/q7 b - -">Link</a> | Blitz |
 | sranly | **kkalamarski** | checkmated ❌ | 12/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k5R1/P7/1K6/8/8/8/8/8 b - -">Link</a> | Blitz |
-| **kkalamarski** | smz55555 | checkmated ❌ | 5/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/1kp2pp1/1p6/2p5/Kq6/4p3/8 w - -">Link</a> | Blitz |
-| smz55555 | **kkalamarski** | repetition ⏸️ | 5/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/ppp2ppp/2p5/8/2B1P3/2N3q1/PPPP4/R1BQ1RK1 w kq -">Link</a> | Blitz |
-| **kkalamarski** | Erj195 | checkmated ❌ | 1/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/1p2p2p/4k3/3b1p2/4p3/4B3/1bR2P1P/3q1K2 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
