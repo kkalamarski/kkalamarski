@@ -19,11 +19,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1044 | 1125 | 968 |
+| Current | 1044 | 1115 | 968 |
 | Best | 1340 | 1125 | 1312 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **kkalamarski** | deny34 | checkmated ❌ | 2/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k1p1/p1p2n2/4K3/1p2r3/5q2/8/8 w - -">Link</a> | Blitz |
 | **kkalamarski** | Iver193 | win 🥇 | 2/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/7P/3p4/3k4/7K/2Q5 b - -">Link</a> | Blitz |
 | AnmolBhangooCanada | **kkalamarski** | checkmated ❌ | 2/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5q1k/pp5Q/4p3/3pPB2/3P4/8/PPP4P/7K b - -">Link</a> | Blitz |
 | **kkalamarski** | chrischoy12 | win 🥇 | 2/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/4k3/8/8/3p1R1P/1r3PP1/4K3 b - -">Link</a> | Blitz |
@@ -33,7 +34,6 @@
 | RaviViswanatha | **kkalamarski** | win 🥇 | 1/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k5r1/1p6/1P6/p6p/8/3P1q2/5PPP/1R3RK1 w - -">Link</a> | Blitz |
 | **kkalamarski** | Tyson_baike | win 🥇 | 1/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q1k1/p6p/2p3pB/1p3p1q/8/6KP/8/8 b - -">Link</a> | Blitz |
 | **kkalamarski** | AgentZero_o | win 🥇 | 1/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1K4k1/1P2p3/3pPp2/2r2n2/8/2P5/q7 b - -">Link</a> | Blitz |
-| sranly | **kkalamarski** | checkmated ❌ | 12/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k5R1/P7/1K6/8/8/8/8/8 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
