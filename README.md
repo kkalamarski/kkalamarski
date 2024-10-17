@@ -7,10 +7,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate Your Web Security: Mastering Authenticated ZAP Scans with the ZAP Automation Framework](https://kkalamarski.me/automate-your-web-security-mastering-authenticated-zap-scans-with-the-zap-automation-framework)
 - [How to start using Neovim in 2023](https://kkalamarski.me/how-to-start-using-neovim-in-2023)
 - [5 lessons I&#39;ve learned from functional programming as a TypeScript developer](https://kkalamarski.me/5-lessons-ive-learned-from-functional-programming-as-a-typescript-developer)
 - [Handling attributes and event listeners: Let&#39;s code a virtual DOM! #4](https://kkalamarski.me/handling-attributes-and-event-listeners-lets-code-a-virtual-dom-4)
-- [A declarative approach to error handling in Typescript](https://kkalamarski.me/a-declarative-approach-to-error-handling-in-typescript)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
